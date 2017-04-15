@@ -2,6 +2,8 @@
 # Created by https://www.gitignore.io/api/c++,windows,visualstudio
 
 ### C++ ###
+*.vcxproj
+*.filters
 # Prerequisites
 *.d
 
