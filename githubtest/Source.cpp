@@ -1,8 +1,9 @@
 using namespace std;
 #include <iostream>
+#include "util.h"
 
 int main()
 {
-	cout << "hello world";
+	print("hello");
 	return 0;
 }
